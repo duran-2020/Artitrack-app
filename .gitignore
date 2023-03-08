@@ -1,0 +1,5 @@
+// Used to store all private information not to be shared with the public.
+
+.DS_Store
+node_modules
+.env
