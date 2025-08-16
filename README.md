@@ -1,6 +1,6 @@
 # Artitrack-app
-Artist retrieval app using the Spotify REST API client. Provides the end-user with the functionality to inquire about their top artists/tracks, track features and analysis. 
-such as you top artists and tracks for the current month, last six months, or all time. 
+Artist retrieval app using the Spotify REST API client. Provides user with the functionality to inquire about their top artists/tracks, track features and analysis. 
+For example, search top artists and tracks for the current month, last six months, or all time. 
 You can also view your public playlists and sort tracks by danceability, tempo, or energy.
 
 To view your top artists and tracks, click the "Top artists this month," "Top tracks this month," or "SEE ALL" links.
